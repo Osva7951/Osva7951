@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Osva </h1>
 <h3 align="center">Un apasionado desarrollador de frontend </h3>
 
-<h3 align="left">Conéctate conmigo:</h3><p align="left">
-
 </p>
 
 <h3 align="center">Idiomas y herramientas:</h3>
