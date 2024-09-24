@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Osva </h1>
-<h3 align="center">Un apasionado desarrollador de frontend </h3>
+<h3 align="center">Un apasionado desarrollador </h3>
 
 </p>
 
